@@ -1,0 +1,33 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+.envrc
+.python-version
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+coverage.xml
+htmlcov/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.pyc
+models/
+.cache/
+.huggingface/
+*.ckpt
+*.safetensors
+node_modules/
+**/__pycache__/
+
+# Optional: ignore large dataset files (uncomment if you don't want to commit datasets)
+# fragrantica_dataset/*.csv

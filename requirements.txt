@@ -1,0 +1,12 @@
+transformers>=4.30.0
+datasets
+evaluate
+torch
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+pydantic
+python-dotenv
+accelerate>=0.26.0
+pytest
